@@ -5,6 +5,7 @@ public class App {
         }
 
         System.out.println();
+        //comments
 
         int x = 1;
         while(x<=10){
